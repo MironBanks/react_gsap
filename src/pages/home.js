@@ -4,13 +4,12 @@ import Title from '../components/title'
 const Home = () => {
     return (
         <div className="inner">
-            <Title lineContent="This is the" lineContent2="home page" />
+            <Title lineContent="miron banks" lineContent2="i build things for the web." />
             <div>
                 <p className="info">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi nec leo a augue porttitor pellentesque
-                    non et est. Duis placerat ultrices lobortis. Orci varius natoque penatibus et magnis dis parturient montes,
-                    nascetur ridiculus mus. Vestibulum lacus ligula, laoreet quis gravida at, blandit id metus.
-                    Pellentesque sit amet ligula quis felis pulvinar varius. In pretium urna eget varius gravida.
+                    Hello! I'm Miron, a Front-End developer based in Oslo who enjoys building things that
+                    live on the internet. I develop exceptional websites and web apps that provide intuitive,
+                    pixel-perfect user interfaces.
                 </p>
             </div>
         </div>
