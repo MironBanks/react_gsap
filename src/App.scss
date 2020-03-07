@@ -49,6 +49,16 @@
                 font-style: 14px;
             }
         }
+
+        img{
+            margin: 30px;
+            background-image: url(./assets/mercedes.jpeg);
+            background-size: cover;
+            position: absolute;
+            width: 400px;
+            height: 600px;
+        }
+
     }
 
 }
